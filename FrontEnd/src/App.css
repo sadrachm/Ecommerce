@@ -1,0 +1,28 @@
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+body {
+  background-color: #e3fdfd;
+}
+
+hr {
+  width: 70%;
+  height: 1px;
+  display: block;
+  border-bottom: none;
+  color: lightgrey;
+  border-top: 5px dotted;
+  margin: 20px auto 20px auto;
+}
